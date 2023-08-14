@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkporfolio=self.webpackChunkporfolio||[]).push([[859],{859:function(e,o,r){r.r(o);var s=r(184);o.default=function(){return(0,s.jsx)("div",{className:"footer",children:"Created by Sosi \xa9  2023"})}}}]);
+//# sourceMappingURL=859.bb9d19d8.chunk.js.map
